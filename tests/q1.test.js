@@ -1,4 +1,5 @@
 import q1 from '../q1';
+import persons from '../persons';
 
 test('accepts empty array', () => {
   const test1 = [];
@@ -14,4 +15,8 @@ test('works with sample data', () => {
     { DateOfBirth: '1976-01-02' },
   ];
   expect(q1(sampleData)).toMatchSnapshot();
+});
+
+test('returns expected output', () => {
+  expect(q1(persons)).toMatchSnapshot();
 });

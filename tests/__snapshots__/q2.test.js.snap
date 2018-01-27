@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`empty set 1`] = `
+Object {
+  "datesOfBirth": Object {},
+  "genders": Object {},
+  "smokers": Object {},
+  "totalRecordCount": 0,
+}
+`;
+
+exports[`returns expected output 1`] = `
+Object {
+  "datesOfBirth": Object {
+    "1948": 1,
+    "1955": 1,
+    "1964": 1,
+    "1970": 1,
+    "1974": 2,
+    "1987": 1,
+    "2000": 3,
+    "2001": 2,
+    "2004": 1,
+    "2017": 1,
+  },
+  "genders": Object {
+    "Female": 7,
+    "Male": 7,
+  },
+  "smokers": Object {
+    "false": 9,
+    "true": 5,
+  },
+  "totalRecordCount": 14,
+}
+`;
