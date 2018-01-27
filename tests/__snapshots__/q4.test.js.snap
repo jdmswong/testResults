@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`empty set 1`] = `Array []`;
+
+exports[`returns expected value 1`] = `
+Array [
+  "O.Wah.2017@newhixmeusers.com",
+  "A.May.2004@newhixmeusers.com",
+  "R.Men.1987@newhixmeusers.com",
+  "H.Jon.1964@newhixmeusers.com",
+  "I.Jon.1948@newhixmeusers.com",
+  "G.Ree.2001@newhixmeusers.com",
+  "J.Mar.2000@newhixmeusers.com",
+  "G.Gre.2000@newhixmeusers.com",
+  "B.Van.1955@newhixmeusers.com",
+  "C.Wal.2001@newhixmeusers.com",
+  "J.Ski.1974@newhixmeusers.com",
+  "R.McC.1974@newhixmeusers.com",
+  "S.McK.2000@newhixmeusers.com",
+  "M.Dun.1970@newhixmeusers.com",
+]
+`;
