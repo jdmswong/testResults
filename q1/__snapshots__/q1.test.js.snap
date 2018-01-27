@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`works with sample data 1`] = `
+Array [
+  "1975-01-01",
+  "1976-01-01",
+  "1976-01-01",
+  "1976-01-02",
+  "1976-02-01",
+]
+`;
