@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`empty set 1`] = `Array []`;
+
+exports[`returns expected value 1`] = `
+Array [
+  "Orval Wahlberg was born on February, 6 2017 and he lives in Los Angeles, Los Angeles",
+  "Aisha Mayer was born on January, 1 2004 and he lives in Los Angeles, Los Angeles",
+  "Robert Mendoza was born on January, 1 1987 and she lives in Los Angeles, Los Angeles",
+  "Janice Marvin was born on January, 1 2000 and he lives in Los Angeles, Los Angeles",
+  "Gavin Green was born on November, 10 2000 and he lives in Los Angeles, Los Angeles",
+]
+`;
