@@ -1,4 +1,4 @@
-import q1 from './q1';
+import q1 from '../q1';
 
 test('accepts empty array', () => {
   const test1 = [];
